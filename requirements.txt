@@ -1,0 +1,9 @@
+pip == 22.1.2
+tensorflow==2.6.2
+keras
+numpy
+matplotlib
+pandas
+Pillow ==9.1.1
+opencv-python
+streamlit
